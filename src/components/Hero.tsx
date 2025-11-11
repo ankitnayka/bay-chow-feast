@@ -39,7 +39,8 @@ const Hero = () => {
           <div className="space-y-3 mb-8">
             <div className="flex items-center gap-2 text-white">
               <MapPin className="w-5 h-5 text-primary" />
-              <span>Marine Drive, Mumbai, Maharashtra 400002</span>
+              <span>
+1857/1858, Radheyshyam Society, Jamalpore, Navsari Locality, Navsari</span>
             </div>
             <div className="flex items-center gap-2 text-white">
               <Phone className="w-5 h-5 text-primary" />
