@@ -44,7 +44,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2 text-white">
               <Phone className="w-5 h-5 text-primary" />
-              <span>+91 98765 43210</span>
+              <span>+91 7272882822</span>
             </div>
           </div>
 
